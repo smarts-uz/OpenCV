@@ -14,3 +14,14 @@ This notebook will help you take your first steps in learning Image Processing a
 *Displaying images using matplotlib
 
 *Saving images
+
+* **Basic Image Manipulations**
+In this notebook we will cover how to perform image transformations including:
+
+*Accessing and manipulating images pixels
+
+*Image resizing
+
+*Cropping
+
+*Flipping
